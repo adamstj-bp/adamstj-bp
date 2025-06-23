@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Adamsweb]
 
-<!--
-**adamstj-bp/adamstj-bp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | React.js | Vue.js | Tailwind CSS | JavaScript
 
-Here are some ideas to get you started:
+I'm passionate about building beautiful and functional user interfaces. With 3+ years of experience in frontend development, I love turning ideas into responsive, clean, and accessible web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** React.js, Vue.js
+- **Styling:** Tailwind CSS, Bootstrap
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## 💼 Hire Me
+🔗 [Hire me on Fiverr](https://www.fiverr.com/adams_web25)  
+I offer professional frontend development services — pixel-perfect UI, clean code, and fast delivery!
+
+## 📫 Let’s Connect!
+- [LinkedIn]([https://linkedin.com/in/adamsweb])
+- 📧 Email: adamstunjisodiq.com
