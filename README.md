@@ -11,7 +11,9 @@ I'm passionate about building beautiful and functional user interfaces. With 3+ 
 - **Tools:** Git, GitHub, VS Code, Chrome DevTools
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![AdamsTj-bp's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamsTj-bp&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamsTj-bp&layout=compact&theme=radical)
 ## 💼 Hire Me
 🔗 [Hire me on Fiverr](https://www.fiverr.com/adams_web25)  
 I offer professional frontend development services — pixel-perfect UI, clean code, and fast delivery!
